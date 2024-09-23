@@ -48,8 +48,10 @@ Pour exécuter la simulation en Python et voir la comparaison des différentes m
 1. Clonez le dépôt GitHub :
 
     ```bash
-    git clone https://github.com/username/nom-du-projet.git
-    cd nom-du-projet
+    git clone https://github.com/ghaieth11/Modelisation_de_la_propagation_dune-_epidemie
+.git
+    cd Modelisation_de_la_propagation_dune-_epidemie
+
     ```
 
 2. Assurez-vous d'avoir installé les dépendances nécessaires :
